@@ -1,2 +1,2 @@
-print ("Hello Asky, what are you doing here?")
+print ("Hello Asky")
 print ("===== i'm here to learn CI/CD =======")
