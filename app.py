@@ -4,4 +4,5 @@ print ("era sistem digital")
 print ("tes commit")
 a = 5
 b = 6
-print ("penjumlahan :", a+b )
+print ("penjumlahan : ", a+b )
+print ("perkalian : ", a*b)
